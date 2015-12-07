@@ -1,0 +1,75 @@
+
+/* Clearing styles */
+
+*, *:after, *:before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: #ec5a62;
+}
+
+/* Main styles */
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f1f1f1;
+}
+
+.circle-image {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+}
+
+main {
+    padding-top: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+main > h1 {
+    color: #ec5a62;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+/* Students styles */
+
+.students-content {
+    text-align: center;
+}
+
+.students-content .student {
+    text-align: center;
+    width: 20%;
+    min-width: 100px;
+    float: left;
+    padding: 20px;
+    margin: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    background: rgba(118,117,128,0.05);
+}
+
+.students-content .student:hover {
+    background: rgba(118,117,128,0.1);
+}
+
+.students-content .student img {
+    width: 100px;
+    height: 100px;
+}
+
+.students-content .student .hint {
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.students-content .student h3 {
+    margin-bottom: 3px;
+}
