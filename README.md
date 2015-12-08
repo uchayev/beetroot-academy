@@ -4,4 +4,4 @@
 
 А для более тесного общения заходите в нашу группу [Вконтакте](http://vk.com/club108277644).
 
-Наш прогрес: [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1Op07VYSPtKxO2vsYv65swdC5qEEh0fCF_E3O85jhJK8/edit?usp=sharing)
+Наш прогресс: [ссылка на таблицу](https://docs.google.com/spreadsheets/d/1Op07VYSPtKxO2vsYv65swdC5qEEh0fCF_E3O85jhJK8/edit?usp=sharing)
